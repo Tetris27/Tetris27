@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Tetris27
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Karthik
+- Software Engineer (Full stack)
+- AI/ML Enthusiast
+- Reach me : Kolikarthik160@gmail.com
+- 
 
 <!---
 Tetris27/Tetris27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
