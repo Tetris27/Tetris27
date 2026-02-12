@@ -8,11 +8,12 @@ Software Engineer | Backend & Distributed Systems
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tetris27&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800)
+![GitHub Stats](https://gh-readme-stats.hackclub.dev/api?username=tetris27&show_icons=true&theme=github_dark&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tetris27&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1800)
+![Top Languages](https://gh-readme-stats.hackclub.dev/api/top-langs/?username=tetris27&layout=compact&theme=github_dark&hide_border=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=tetris27&theme=github-dark&hide_border=true)
+
 
   
 
