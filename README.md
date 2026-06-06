@@ -1,7 +1,7 @@
 
 
 # Hi, I'm Karthik 👋
-
+Email: Kolikarthik160@gmail.com
 Building full-stack applications and high-performance backend systems with a strong focus on scalability, distributed systems, and performance engineering.
 
 ## Tech Stack
