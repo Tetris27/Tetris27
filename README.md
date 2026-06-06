@@ -13,7 +13,7 @@ Building full-stack applications and high-performance backend systems with a str
 * Enjoy working close to the metal — from low-level systems programming to scalable backend architecture
 * Strong believer in first-principles thinking and understanding trade-offs deeply
 * Passionate about distributed systems, databases, infrastructure, and systems internals
-* Occasionally write x86-64 GAS/AT&T Assembly for fun and learning
+* Occasionally explore x86-64 GAS/AT&T Assembly
 * Obsessed with building efficient, scalable, and performance-critical software
 
 ## Interests
