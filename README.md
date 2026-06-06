@@ -1,4 +1,4 @@
-- 👋 Karthik# Hi, I'm Karthik 👋
+
 
 # Hi, I'm Karthik 👋
 
